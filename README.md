@@ -31,6 +31,9 @@ Bachelor's in Information Management | Tribhuvan University (2018)
 ### Human Resource Data Analysis
 - Conducted preliminary analysis to understand data distributions and patterns.
 - Utilized SQL to calculate HR metrics such as turnover rates, performance, demographics and more.
-- Provided actionable recommendations to enhance employee satisfaction and organizational efficiency. 
+- Provided actionable recommendations to enhance employee satisfaction and organizational efficiency.
+
+### Data Analysis using RFM Model
+- 
 
 
