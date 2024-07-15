@@ -1,8 +1,8 @@
 
-# Data Scientist
+# Business | Data Analyst
 
-## Technical Skills: SQL, MS Excel, Python, Tableau, Power BI
-## Software: Jira, Microsoft Office 365, Adobe XD, Adobe Photoshop, MS Visio
+### Technical Skills: SQL, MS Excel, Python, Tableau, Power BI
+### Software: Jira, Microsoft Office 365, Adobe XD, Adobe Photoshop, MS Visio
 
 ## Education
 
