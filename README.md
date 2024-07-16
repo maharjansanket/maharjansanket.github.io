@@ -34,6 +34,8 @@ Bachelor's in Information Management | Tribhuvan University (2018)
 - Provided actionable recommendations to enhance employee satisfaction and organizational efficiency.
 
 ### Data Analysis using RFM Model
-- 
+- Conducted RFM analysis of a retail store.
+- Utilized different python libraries to calculate the customers Recency, Frequency and Monetary expenditure.
+- Provided recommendations to improve the stores sales and retain customers.
 
 
